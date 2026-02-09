@@ -1,4 +1,4 @@
-# Projekt: Multi-Kamera-Tracking (MATLAB)
+# Multi-Kamera-Tracking (MATLAB)
 
 Dieses Repository enthält MATLAB-Skripte zur kamerabasierten Positionsbestimmung von Modellfahrzeugen im Versuchsraum.  
 Die Hauptpipeline ist in **step1 bis step5** gegliedert. Für die nachgelagerte Auswertung/Analyse werden separate **Test- Skripte** verwendet.
